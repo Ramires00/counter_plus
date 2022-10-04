@@ -24,8 +24,6 @@ class Home extends StatelessWidget {
     Color(0xffd363ff)
   ];
 
-  void backGroundColor() {}
-
   final RxInt counter = RxInt(0);
 
   @override
